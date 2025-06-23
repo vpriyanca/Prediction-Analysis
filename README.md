@@ -89,8 +89,8 @@ If you’d like to improve this project:
 For major contributions, please open an issue first to discuss your ideas.
 
 ## Contact
-Project Owner: Priyanka Vyas
-Email: vpriyanka.sv@gmail.com
+- **Project Owner**: Priyanka Vyas
+- **Email**: vpriyanka.sv@gmail.com
 
 ## Acknowledgment
 This project was developed at Kent State University as part of a strategic data science initiative. Thanks to the data management and analytics team, and tools including:
