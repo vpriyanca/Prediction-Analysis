@@ -105,17 +105,21 @@ For major contributions, please open an issue first to discuss your ideas.
 
 ## Acknowledgment
 This project was developed at Kent State University as part of a strategic data science initiative. Thanks to the data management and analytics team, and tools including:
-**Language and Libraries Used:**  
-- [Python](https://www.python.org/)
-- [Pandas](https://pandas.pydata.org/)
-- [NumPy](https://numpy.org/)
-- [scikit-learn](https://scikit-learn.org/)
-- [TensorFlow](https://www.tensorflow.org/)
-- [Keras](https://keras.io/)
-- [Statsmodels](https://www.statsmodels.org/)
-- [Matplotlib](https://matplotlib.org/)
-- [Seaborn](https://seaborn.pydata.org/)
-- [JMP](https://www.jmp.com/)
+- **Language & IDE:**  
+![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
+
+**Libraries & Frameworks:**  
+![Pandas](https://img.shields.io/badge/Pandas-1.x-150458?logo=pandas)  
+![NumPy](https://img.shields.io/badge/NumPy-1.x-013243?logo=numpy)  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-F7931E?logo=scikit-learn)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?logo=tensorflow)  
+![Keras](https://img.shields.io/badge/Keras-2.x-D00000?logo=keras)  
+![Statsmodels](https://img.shields.io/badge/Statsmodels-Enabled-green)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-3776AB?logo=python)  
+![Seaborn](https://img.shields.io/badge/Seaborn-0.11+-579ACA?logo=python)
+
+**Other Tools:**  
+![JMP](https://img.shields.io/badge/JMP-Validation%20%26%20Export-blue?logo=sas)
 
 **Development Tool:**  
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-Enabled-F37626?logo=jupyter)
