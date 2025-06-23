@@ -105,10 +105,21 @@ For major contributions, please open an issue first to discuss your ideas.
 
 ## Acknowledgment
 This project was developed at Kent State University as part of a strategic data science initiative. Thanks to the data management and analytics team, and tools including:
-- Python
-- Pandas, NumPy
-- Scikit-learn
-- TensorFlow / Keras
-- Statsmodels
-- Matplotlib, Seaborn
-- JMP (for validation and export)
+**Language and Libraries Used:**  
+- [Python](https://www.python.org/)
+- [Pandas](https://pandas.pydata.org/)
+- [NumPy](https://numpy.org/)
+- [scikit-learn](https://scikit-learn.org/)
+- [TensorFlow](https://www.tensorflow.org/)
+- [Keras](https://keras.io/)
+- [Statsmodels](https://www.statsmodels.org/)
+- [Matplotlib](https://matplotlib.org/)
+- [Seaborn](https://seaborn.pydata.org/)
+- [JMP](https://www.jmp.com/)
+
+**Development Tool:**  
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-Enabled-F37626?logo=jupyter)
+
+**Hardware:**  
+![MacBook Pro](https://img.shields.io/badge/MacBook%20Pro-Apple%20M1%20Pro-lightgrey?logo=apple&logoColor=white)
+
