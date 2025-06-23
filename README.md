@@ -105,8 +105,10 @@ For major contributions, please open an issue first to discuss your ideas.
 
 ## Acknowledgment
 This project was developed at Kent State University as part of a strategic data science initiative. Thanks to the data management and analytics team, and tools including:
+
 **Language & IDE:**  
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
+
 **Libraries & Frameworks:**  
 ![Pandas](https://img.shields.io/badge/Pandas-1.x-150458?logo=pandas)  
 ![NumPy](https://img.shields.io/badge/NumPy-1.x-013243?logo=numpy)  
@@ -116,10 +118,13 @@ This project was developed at Kent State University as part of a strategic data 
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-Enabled-green)  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-3776AB?logo=python)  
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.11+-579ACA?logo=python)
+
 **Other Tools:**  
 ![JMP](https://img.shields.io/badge/JMP-Validation%20%26%20Export-blue?logo=sas)
+
 **Development Tool:**  
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-Enabled-F37626?logo=jupyter)
+
 **Hardware:**  
 ![MacBook Pro](https://img.shields.io/badge/MacBook%20Pro-Apple%20M1%20Pro-lightgrey?logo=apple&logoColor=white)
 
