@@ -52,7 +52,7 @@ If using Google Colab, just upload the notebook and Excel file, and all dependen
 - Final forecast for 2024 is averaged from ARIMA and LSTM outputs.
 - Forecast includes all demographic proportions based on 2023 data.
 
-## Evaluation Metrics
+### Evaluation Metrics
 
 | Year | Model | Actual Student Count | Forecasted Count | Difference |
 |------|--------|-----------------------|------------------|------------|
