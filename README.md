@@ -78,6 +78,17 @@ The notebook includes the following visual outputs:
 - forecast_detailed_2024(): Combines model output and 2023 demographic ratios for 2024 prediction.
 - print_detailed_predictions(): Human-readable summary for each year’s student profile.
 
+### Key Learnings
+- **Historical patterns are predictive**: Multi-year student count trends—when smoothed using rolling averages—show stable signals that can be used as baselines to validate forecasts.
+- **Demographics add interpretability**: Including features like age, residency, and ethnicity enables more than just enrollment prediction; it supports strategic planning around diversity, outreach, and funding.
+- **ARIMA vs. LSTM**:
+  - ARIMA performed well for short-term trends but is sensitive to sudden shifts (e.g., post-pandemic enrollment dips).
+  - LSTM better captured nonlinear patterns and recent changes but required more training data and tuning.
+- **Ensemble modeling improves reliability**: Averaging predictions from ARIMA and LSTM gave a balanced forecast that leverages the stability of statistical models and the adaptability of deep learning.
+- **Data quality matters**: Missing values in term-year or demographic codes caused issues during preprocessing. Cleaning and transforming these early on was critical to avoid bias and misalignment in the results.
+- **Interpretability vs. accuracy trade-off**: Classical models like ARIMA offer high interpretability and are easy to explain to stakeholders. LSTM, while potentially more accurate, is less transparent and requires careful architecture design.
+- **Forecasting beyond 2023** should always be paired with domain insights—especially when real-world events (e.g., policy shifts, tuition changes) can cause disruptions not reflected in historical data.
+
 ## Contributing
 If you’d like to improve this project:
 1. Fork the repository.
